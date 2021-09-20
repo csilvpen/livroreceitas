@@ -6,7 +6,7 @@
 -ovos
 -leite
 -fubá
--óleo
+-manteiga
 
 --Modo de preparo:
 
