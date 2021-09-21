@@ -6,7 +6,11 @@
 -ovos
 -leite
 -fubá
--manteiga
+<<<<<<< HEAD
+=======
+-manteiga ou margarina
+
+>>>>>>> Ingredientes
 
 --Modo de preparo:
 
